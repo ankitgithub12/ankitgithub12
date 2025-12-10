@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-```python
+python
 class AboutMe:
     def __init__(self):
         self.name = "Ankit Kumar"
@@ -93,4 +93,4 @@ Software Development Process | Coursera (May '24)
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ankitgithub12&color=blueviolet&style=flat-square" /> </div>
-<div align="center"> 🎯 *"Code is like humor. When you have to explain it, it's bad."* – Cory House </div> ```
+<div align="center"> 🎯 *"Code is like humor. When you have to explain it, it's bad."* – Cory House </div> 
