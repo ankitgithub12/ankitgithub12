@@ -79,26 +79,46 @@
       </a>
     </td>
     
-    <td align="center" style="border-radius: 15px; padding: 20px; background: linear-gradient(145deg, #1a1a2e, #16213e);" width="400">
-      <h3 style="color: #f72585;">🏫 SRIC School Portal</h3>
-      <p><em>Modern Educational Web Platform</em></p>
-      <div style="background: #0f3460; padding: 10px; border-radius: 10px; margin: 15px 0;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=F72585&center=true&vCenter=true&width=350&height=100&lines=🎯+Official+School+Website;👨‍💼+Admin+Dashboard;🔒+Role-Based+Access;⚡+35%+Performance+Increase" alt="Features" />
+   <td align="center" style="border-radius: 15px; padding: 20px; background: linear-gradient(145deg, #1a1a2e, #16213e);" width="400">
+  <h3 style="color: #f72585;">🏫 SRIC School Portal</h3>
+  <p><em>Modern Educational Web Platform</em></p>
+  
+  <div style="background: #0f3460; padding: 15px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #f72585;">
+    <div style="color: #fff; text-align: left;">
+      <div style="display: flex; align-items: center; margin: 8px 0;">
+        <span style="color: #f72585; margin-right: 8px;">✓</span>
+        <span>🎯 Official School Website</span>
       </div>
-      <p>Full-featured school management system with MERN stack</p>
-      <div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
-        <span style="background: #4361ee; padding: 5px 10px; border-radius: 20px; font-size: 12px;">MERN</span>
-        <span style="background: #3a0ca3; padding: 5px 10px; border-radius: 20px; font-size: 12px;">Tailwind CSS</span>
-        <span style="background: #7209b7; padding: 5px 10px; border-radius: 20px; font-size: 12px;">MongoDB Atlas</span>
+      <div style="display: flex; align-items: center; margin: 8px 0;">
+        <span style="color: #f72585; margin-right: 8px;">✓</span>
+        <span>👨‍💼 Admin Dashboard</span>
       </div>
-      <a href="https://github.com/ankitgithub12/SRIC" style="text-decoration: none;">
-        <button style="background: linear-gradient(90deg, #f72585, #b5179e); border: none; padding: 10px 20px; border-radius: 25px; color: white; cursor: pointer; font-weight: bold;">
-          🔍 View Project
-        </button>
-      </a>
-    </td>
-  </tr>
-</table>
+      <div style="display: flex; align-items: center; margin: 8px 0;">
+        <span style="color: #f72585; margin-right: 8px;">✓</span>
+        <span>🔒 Role-Based Access Control</span>
+      </div>
+      <div style="display: flex; align-items: center; margin: 8px 0;">
+        <span style="color: #f72585; margin-right: 8px;">✓</span>
+        <span>⚡ 35% Performance Increase</span>
+      </div>
+    </div>
+  </div>
+  
+  <p style="color: #ccc; font-size: 14px;">Full-featured school management system with MERN stack</p>
+  
+  <div style="display: flex; justify-content: center; gap: 8px; margin: 15px 0; flex-wrap: wrap;">
+    <span style="background: linear-gradient(90deg, #4361ee, #3a0ca3); padding: 6px 12px; border-radius: 20px; font-size: 12px; color: white;">MERN Stack</span>
+    <span style="background: linear-gradient(90deg, #7209b7, #560bad); padding: 6px 12px; border-radius: 20px; font-size: 12px; color: white;">Tailwind CSS</span>
+    <span style="background: linear-gradient(90deg, #4cc9f0, #4895ef); padding: 6px 12px; border-radius: 20px; font-size: 12px; color: white;">MongoDB Atlas</span>
+  </div>
+  
+  <a href="https://github.com/ankitgithub12/SRIC" style="text-decoration: none;">
+    <button style="background: linear-gradient(90deg, #f72585, #b5179e); border: none; padding: 10px 25px; border-radius: 25px; color: white; cursor: pointer; font-weight: bold; display: flex; align-items: center; gap: 8px; margin: 0 auto;">
+      <span>🔍</span>
+      <span>View Project</span>
+    </button>
+  </a>
+</td>
 
 </div>
 
