@@ -6,7 +6,6 @@
 <div align="center">
 
 <!-- ✦ CUSTOM ANIMATED SPACE BANNER ✦ -->
-<!-- After uploading banner.svg to your profile repo, this line works automatically -->
 <img src="https://raw.githubusercontent.com/ankitgithub12/ankitgithub12/main/banner.svg" width="100%" alt="Ankit Kumar Banner"/>
 
 <br/>
@@ -40,10 +39,10 @@
 ```
  ╭─────────────────────────────────────────╮
  │  🎓  B.Tech CSE  ·  LPU Punjab          │
- │       CGPA: 7.39                        │
+ │                                         │
  │  📍  Punjab, India                      │
  │  💼  Full Stack MERN Developer          │
- │  🔥  78-day max coding streak           │
+ │  🔥  73-day max coding streak           │
  │  🧩  200+ LeetCode · 501+ GFG           │
  │  🌱  Exploring Web3 & AI-powered apps   │
  │  📬  ankit639520@gmail.com              │
@@ -60,7 +59,7 @@
 ---
 
 <!-- ══════════════════════════════════════════════════ -->
-<!--  ✦ SKILLS + PROGRESS BARS                        -->
+<!--  ✦ SKILLS + PROGRESS BARS (Fixed - shields.io)   -->
 <!-- ══════════════════════════════════════════════════ -->
 
 ## 🛸 &nbsp;Skills & Proficiency
@@ -78,41 +77,32 @@
 
 <br/>
 
-<!-- PROGRESS BARS using progress-bar.dev -->
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 **🌐 Frontend**
 
-`React.js`
-![React](https://progress-bar.dev/88/?title=&width=260&color=61dafb&bg=06001a)
+`React.js` &nbsp; ![88%](https://img.shields.io/badge/88%25-▓▓▓▓▓▓▓▓░░-61dafb?style=flat-square&labelColor=06001a)
 
-`HTML & CSS`
-![HTML/CSS](https://progress-bar.dev/92/?title=&width=260&color=e34f26&bg=06001a)
+`HTML & CSS` &nbsp; ![92%](https://img.shields.io/badge/92%25-▓▓▓▓▓▓▓▓▓░-e34f26?style=flat-square&labelColor=06001a)
 
-`Tailwind CSS`
-![Tailwind](https://progress-bar.dev/80/?title=&width=260&color=38b2ac&bg=06001a)
+`Tailwind CSS` &nbsp; ![80%](https://img.shields.io/badge/80%25-▓▓▓▓▓▓▓▓░░-38b2ac?style=flat-square&labelColor=06001a)
 
-`JavaScript`
-![JS](https://progress-bar.dev/85/?title=&width=260&color=f7df1e&bg=06001a)
+`JavaScript` &nbsp; ![85%](https://img.shields.io/badge/85%25-▓▓▓▓▓▓▓▓░░-f7df1e?style=flat-square&labelColor=06001a)
 
 </td>
 <td width="50%" valign="top">
 
 **⚙️ Backend & Database**
 
-`Node.js + Express`
-![Node](https://progress-bar.dev/83/?title=&width=260&color=339933&bg=06001a)
+`Node.js + Express` &nbsp; ![83%](https://img.shields.io/badge/83%25-▓▓▓▓▓▓▓▓░░-339933?style=flat-square&labelColor=06001a)
 
-`MongoDB + Atlas`
-![MongoDB](https://progress-bar.dev/82/?title=&width=260&color=4ea94b&bg=06001a)
+`MongoDB + Atlas` &nbsp; ![82%](https://img.shields.io/badge/82%25-▓▓▓▓▓▓▓▓░░-4ea94b?style=flat-square&labelColor=06001a)
 
-`REST APIs + JWT`
-![API](https://progress-bar.dev/87/?title=&width=260&color=c77dff&bg=06001a)
+`REST APIs + JWT` &nbsp; ![87%](https://img.shields.io/badge/87%25-▓▓▓▓▓▓▓▓░░-c77dff?style=flat-square&labelColor=06001a)
 
-`MySQL`
-![MySQL](https://progress-bar.dev/72/?title=&width=260&color=005c84&bg=06001a)
+`MySQL` &nbsp; ![72%](https://img.shields.io/badge/72%25-▓▓▓▓▓▓▓░░░-005c84?style=flat-square&labelColor=06001a)
 
 </td>
 </tr>
@@ -121,22 +111,18 @@
 
 **🧠 Problem Solving**
 
-`C++ DSA`
-![CPP](https://progress-bar.dev/85/?title=&width=260&color=00599c&bg=06001a)
+`C++ & DSA` &nbsp; ![85%](https://img.shields.io/badge/85%25-▓▓▓▓▓▓▓▓░░-00599c?style=flat-square&labelColor=06001a)
 
-`Python`
-![Python](https://progress-bar.dev/78/?title=&width=260&color=3776ab&bg=06001a)
+`Python` &nbsp; ![78%](https://img.shields.io/badge/78%25-▓▓▓▓▓▓▓░░░-3776ab?style=flat-square&labelColor=06001a)
 
 </td>
 <td valign="top">
 
 **🔧 Tools & DevOps**
 
-`Git & GitHub`
-![Git](https://progress-bar.dev/88/?title=&width=260&color=f05032&bg=06001a)
+`Git & GitHub` &nbsp; ![88%](https://img.shields.io/badge/88%25-▓▓▓▓▓▓▓▓░░-f05032?style=flat-square&labelColor=06001a)
 
-`Socket.io`
-![Socket](https://progress-bar.dev/80/?title=&width=260&color=7b2fff&bg=06001a)
+`Socket.io` &nbsp; ![80%](https://img.shields.io/badge/80%25-▓▓▓▓▓▓▓▓░░-7b2fff?style=flat-square&labelColor=06001a)
 
 </td>
 </tr>
@@ -159,11 +145,12 @@
 
 > Official full-stack website for SitaRam Inter College — admissions, fees, inquiries & secure admin portal.
 
-<table>
-<tr><td>🔐 JWT + RBAC Security</td><td><img src="https://progress-bar.dev/90/?title=Impact&width=180&color=c77dff&bg=06001a"/> ↓90% unauthorized access</td></tr>
-<tr><td>⚡ MongoDB Optimization</td><td><img src="https://progress-bar.dev/35/?title=Speed&width=180&color=48cae4&bg=06001a"/> ↑35% query performance</td></tr>
-<tr><td>📋 Admin Automation</td><td><img src="https://progress-bar.dev/60/?title=Efficiency&width=180&color=7b2fff&bg=06001a"/> ↓60% manual work</td></tr>
-</table>
+| Feature | Impact |
+|---|---|
+| 🔐 JWT + RBAC Security | ↓ 90% unauthorized access |
+| ⚡ MongoDB Optimization | ↑ 35% query performance |
+| 📋 Admin Automation | ↓ 60% manual work |
+| 📱 Responsive UI | ↑ 45% digital presence |
 
 **Stack:** &nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
@@ -186,11 +173,12 @@
 
 > Real-time peer-to-peer timeslot swapping platform with live notifications and calendar management.
 
-<table>
-<tr><td>🔔 Socket.io Real-Time</td><td><img src="https://progress-bar.dev/40/?title=Engagement&width=180&color=c77dff&bg=06001a"/> ↑40% user engagement</td></tr>
-<tr><td>📅 Smart Scheduling</td><td><img src="https://progress-bar.dev/50/?title=Efficiency&width=180&color=48cae4&bg=06001a"/> ↑50% scheduling speed</td></tr>
-<tr><td>☁️ Render + Atlas</td><td><img src="https://progress-bar.dev/90/?title=Uptime&width=180&color=7b2fff&bg=06001a"/> 90% uptime reliability</td></tr>
-</table>
+| Feature | Impact |
+|---|---|
+| 🔔 Socket.io Real-Time | ↑ 40% user engagement |
+| 📅 Smart Scheduling | ↑ 50% scheduling speed |
+| ☁️ Render + Atlas Deploy | 90% uptime reliability |
+| 📱 Context API UI | ↑ 45% usability |
 
 **Stack:** &nbsp;
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=000)
@@ -223,12 +211,10 @@
 
 <br/><br/>
 
-<!-- TROPHIES -->
 <img src="https://github-profile-trophy.vercel.app/?username=ankitgithub12&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitgithub12&bg_color=06001a&color=c77dff&line=7b2fff&point=e0aaff&area=true&area_color=7b2fff20&hide_border=true&radius=8&custom_title=✦+Contribution+Timeline" width="100%"/>
 
 </div>
@@ -251,17 +237,17 @@
 <tr>
 <td align="center">
 <b>🟡 LeetCode</b><br/>
-<img src="https://progress-bar.dev/40/?title=200%2B+solved&width=160&color=ffa116&bg=06001a"/><br/>
+<img src="https://img.shields.io/badge/200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=06001a"/><br/>
 <sub>~40% of 500 target</sub>
 </td>
 <td align="center">
 <b>🟢 GeeksforGeeks</b><br/>
-<img src="https://progress-bar.dev/50/?title=501%2B+solved&width=160&color=2f8d46&bg=06001a"/><br/>
+<img src="https://img.shields.io/badge/501%2B_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=06001a"/><br/>
 <sub>~50% of 1000 target</sub>
 </td>
 <td align="center">
 <b>🔥 Max Streak</b><br/>
-<img src="https://progress-bar.dev/78/?title=78+days&width=160&color=c77dff&bg=06001a"/><br/>
+<img src="https://img.shields.io/badge/78_Days_🔥-c77dff?style=for-the-badge&labelColor=06001a"/><br/>
 <sub>78 / 100 day goal</sub>
 </td>
 </tr>
@@ -270,10 +256,6 @@
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════════ -->
-<!--  ✦ SNAKE + CONNECT                               -->
-<!-- ══════════════════════════════════════════════════ -->
 
 ## 🐍 &nbsp;Contribution Snake
 
