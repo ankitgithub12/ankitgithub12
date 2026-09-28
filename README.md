@@ -14,94 +14,88 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=55&section=header&text=%F0%9F%9A%80%20About%20Me&fontSize=28&fontColor=E2E8F0&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=About%20Me&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
 </div>
 
 <div align="center">
 
 | Profile Snapshot | Details |
 |---|---|
-| 🚀 **Role** | Full-Stack Developer building high-performance products with **React, Node.js, Express, MongoDB** |
-| 🧩 **Strength** | Scalable architecture, real-time systems, and clean product engineering |
-| 🎓 **Education** | B.Tech CSE @ **Lovely Professional University** (CGPA: **7.73**) |
-| 🌍 **Domain Exposure** | Video-commerce, recruitment, event, and education platforms |
-| 🤝 **Availability** | Open for high-impact full-time roles and freelance opportunities |
+| **Role** | Full-Stack Developer building high-performance products with **React, Node.js, Express, MongoDB** |
+| **Strength** | Scalable architecture, real-time systems, and clean product engineering |
+| **Education** | B.Tech CSE @ **Lovely Professional University** (CGPA: **7.73**) |
+| **Domain Exposure** | Video-commerce, recruitment, event, and education platforms |
+| **Availability** | Open for high-impact full-time roles and freelance opportunities |
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1D4ED8&height=55&section=header&text=%F0%9F%A7%A0%20Engineering%20Focus&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=Engineering%20Focus&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
 </div>
 
 <div align="center">
 
 | Engineering Pillar | Focus |
 |---|---|
-| ⚡ **Performance-First Thinking** | Build fast experiences with scalable backend and efficient data flow |
-| 🏗️ **Architecture Quality** | Convert complex product requirements into robust and intuitive systems |
-| 🔐 **Production Readiness** | Prioritize maintainability, security, reliability, and usability in every release |
+| **Performance-First Thinking** | Build fast experiences with scalable backend and efficient data flow |
+| **Architecture Quality** | Convert complex product requirements into robust and intuitive systems |
+| **Production Readiness** | Prioritize maintainability, security, reliability, and usability in every release |
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:0EA5E9&height=55&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=28&fontColor=E2E8F0&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=Tech%20Stack&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+| Category | Technologies |
+|---|---|
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens&logoColor=white) |
+| **Database & Realtime** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white) |
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:7C3AED&height=55&section=header&text=%F0%9F%92%BC%20Experience&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=Experience&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
 </div>
 
-### Founding Full-Stack Developer — Freelance / SaaS Marketplace (Jul 2026 – Present)
-- Built **BizReels** (video-first hyperlocal multi-vendor marketplace) from scratch.
-- Implemented TikTok-style reels shopping UX, JWT RBAC, Socket.IO lead pipeline, and Razorpay subscriptions.
-- Delivered sub-second smart geospatial search with MongoDB geospatial queries + Google Maps integration.
+<div align="center">
 
-### Full Stack Developer Intern — Emote Technology (Feb 2026 – Jun 2026)
-- Built job portal + company operations dashboard with React, Node, Express, MongoDB Atlas.
-- Engineered ATS workflows, role-based JWT auth, analytics dashboards, and real-time notifications.
-- Improved database query performance by **30%** through schema and API optimization.
+| Role | Impact |
+|---|---|
+| **Founding Full-Stack Developer — Freelance / SaaS Marketplace (Jul 2026 – Present)** | Built **BizReels** from scratch with reels commerce UX, JWT RBAC, Socket.IO lead pipeline, Razorpay subscriptions, and sub-second geospatial search. |
+| **Full Stack Developer Intern — Emote Technology (Feb 2026 – Jun 2026)** | Built a job portal and operations dashboard with ATS workflows, analytics, and real-time notifications while improving DB query performance by **30%**. |
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,100:1C2541&height=55&section=header&text=%F0%9F%8C%9F%20Featured%20Projects&fontSize=28&fontColor=E0E7FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=Featured%20Projects&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
 </div>
 
-### B5 Eventory — Event Management Platform
-- End-to-end MERN platform with admin portal and planner.
-- Socket.IO real-time booking alerts; engagement improved by **40%**.
-- Cloudinary + MongoDB Atlas architecture with **99% reliability**.
+<div align="center">
 
-### SRIC School Website
-- MERN portal for admissions and fee workflows, reducing manual work by **60%**.
-- JWT + RBAC admin security with significant unauthorized access reduction.
-- MongoDB schema tuning delivered **35% faster** queries.
+| Project | Outcome |
+|---|---|
+| **B5 Eventory — Event Management Platform** | End-to-end MERN platform with admin + planner portals, Socket.IO booking alerts, and architecture tuned for **99% reliability**. |
+| **SRIC School Website** | MERN admissions and fee workflow platform with JWT RBAC, **60%** manual process reduction, and **35%** faster queries after schema tuning. |
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=%F0%9F%93%8A%20Coding%20Performance&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=Coding%20Performance&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -125,30 +119,38 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,100:2563EB&height=55&section=header&text=%F0%9F%8E%93%20Certifications&fontSize=28&fontColor=EFF6FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=Certifications&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
 </div>
 
-- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** (Oracle)
-- **UiPath Certified Professional Automation Developer Associate** (UiPath)
-- **Data Analytics with Python** (NPTEL)
-- **Data Structures and Algorithms** (Iamneo)
-- **Object Oriented Programming** (Iamneo)
-- **TCP/IP and Advanced Topics** (Coursera)
-- **Packet Switching Networks and Algorithms** (Coursera)
-- **Software Development Process and Methodologies** (Coursera)
+<div align="center">
+
+| Certification | Provider |
+|---|---|
+| Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle |
+| UiPath Certified Professional Automation Developer Associate | UiPath |
+| Data Analytics with Python | NPTEL |
+| Data Structures and Algorithms | Iamneo |
+| Object Oriented Programming | Iamneo |
+| TCP/IP and Advanced Topics | Coursera |
+| Packet Switching Networks and Algorithms | Coursera |
+| Software Development Process and Methodologies | Coursera |
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14532D,100:16A34A&height=55&section=header&text=%F0%9F%A4%9D%20Let%E2%80%99s%20Connect&fontSize=28&fontColor=F0FDF4&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=Let%27s%20Connect&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-📧 **Email:** [ankit639520@gmail.com](mailto:ankit639520@gmail.com)  
-📱 **Call / WhatsApp:** [+91 6395204834](tel:+916395204834)  
-📍 **Location:** Punjab, India  
-🌐 **Portfolio:** [View Live Portfolio](https://github.com/ankitgithub12)
+| Channel | Details |
+|---|---|
+| **Email** | [ankit639520@gmail.com](mailto:ankit639520@gmail.com) |
+| **Call / WhatsApp** | [+91 6395204834](tel:+916395204834) |
+| **Location** | Punjab, India |
+| **Portfolio** | [View Live Portfolio](https://github.com/ankitgithub12) |
 
 </div>
 
