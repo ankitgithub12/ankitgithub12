@@ -19,13 +19,21 @@
 
 <div align="center">
 
-| Profile Snapshot | Details |
-|---|---|
-| **Role** | Full-Stack Developer building high-performance products with **React, Node.js, Express, MongoDB** |
-| **Strength** | Scalable architecture, real-time systems, and clean product engineering |
-| **Education** | B.Tech CSE @ **Lovely Professional University** (CGPA: **7.73**) |
-| **Domain Exposure** | Video-commerce, recruitment, event, and education platforms |
-| **Availability** | Open for high-impact full-time roles and freelance opportunities |
+> #### Profile Snapshot  
+> **Role**  
+> Full-Stack Developer building high-performance products with **React, Node.js, Express, MongoDB**
+>
+> **Strength**  
+> Scalable architecture, real-time systems, and clean product engineering
+>
+> **Education**  
+> B.Tech CSE @ **Lovely Professional University** (CGPA: **7.73**)
+>
+> **Domain Exposure**  
+> Video-commerce, recruitment, event, and education platforms
+>
+> **Availability**  
+> Open for high-impact full-time roles and freelance opportunities
 
 </div>
 
@@ -37,11 +45,15 @@
 
 <div align="center">
 
-| Engineering Pillar | Focus |
-|---|---|
-| **Performance-First Thinking** | Build fast experiences with scalable backend and efficient data flow |
-| **Architecture Quality** | Convert complex product requirements into robust and intuitive systems |
-| **Production Readiness** | Prioritize maintainability, security, reliability, and usability in every release |
+> #### Engineering Focus Card  
+> **Performance-First Thinking**  
+> Build fast experiences with scalable backend and efficient data flow
+>
+> **Architecture Quality**  
+> Convert complex product requirements into robust and intuitive systems
+>
+> **Production Readiness**  
+> Prioritize maintainability, security, reliability, and usability in every release
 
 </div>
 
@@ -53,12 +65,18 @@
 
 <div align="center">
 
-| Category | Technologies |
-|---|---|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens&logoColor=white) |
-| **Database & Realtime** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white) |
+> #### Core Stack Card  
+> **Languages**  
+> ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+>
+> **Frontend**  
+> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+>
+> **Backend**  
+> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+>
+> **Database & Realtime**  
+> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 </div>
 
@@ -70,10 +88,12 @@
 
 <div align="center">
 
-| Role | Impact |
-|---|---|
-| **Founding Full-Stack Developer — Freelance / SaaS Marketplace (Jul 2026 – Present)** | Built **BizReels** from scratch with reels commerce UX, JWT RBAC, Socket.IO lead pipeline, Razorpay subscriptions, and sub-second geospatial search. |
-| **Full Stack Developer Intern — Emote Technology (Feb 2026 – Jun 2026)** | Built a job portal and operations dashboard with ATS workflows, analytics, and real-time notifications while improving DB query performance by **30%**. |
+> #### Experience Cards  
+> **Founding Full-Stack Developer — Freelance / SaaS Marketplace (Jul 2026 – Present)**  
+> Built **BizReels** from scratch with reels commerce UX, JWT RBAC, Socket.IO lead pipeline, Razorpay subscriptions, and sub-second geospatial search.
+>
+> **Full Stack Developer Intern — Emote Technology (Feb 2026 – Jun 2026)**  
+> Built a job portal and operations dashboard with ATS workflows, analytics, and real-time notifications while improving DB query performance by **30%**.
 
 </div>
 
@@ -85,10 +105,12 @@
 
 <div align="center">
 
-| Project | Outcome |
-|---|---|
-| **B5 Eventory — Event Management Platform** | End-to-end MERN platform with admin + planner portals, Socket.IO booking alerts, and architecture tuned for **99% reliability**. |
-| **SRIC School Website** | MERN admissions and fee workflow platform with JWT RBAC, **60%** manual process reduction, and **35%** faster queries after schema tuning. |
+> #### Featured Project Cards  
+> **B5 Eventory — Event Management Platform**  
+> End-to-end MERN platform with admin + planner portals, Socket.IO booking alerts, and architecture tuned for **99% reliability**.
+>
+> **SRIC School Website**  
+> MERN admissions and fee workflow platform with JWT RBAC, **60%** manual process reduction, and **35%** faster queries after schema tuning.
 
 </div>
 
@@ -109,10 +131,12 @@
 
 <div align="center">
 
-| Platform | Solved | Highlights |
-|---|---:|---|
-| LeetCode | **458+** | 257 Easy • 174 Medium • 27 Hard |
-| GeeksforGeeks | **592+** | 73-day streak • Top 10% rank |
+> #### Coding Snapshot Card  
+> **LeetCode** — **458+** solved  
+> 257 Easy • 174 Medium • 27 Hard
+>
+> **GeeksforGeeks** — **592+** solved  
+> 73-day streak • Top 10% rank
 
 </div>
 
@@ -124,16 +148,15 @@
 
 <div align="center">
 
-| Certification | Provider |
-|---|---|
-| Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle |
-| UiPath Certified Professional Automation Developer Associate | UiPath |
-| Data Analytics with Python | NPTEL |
-| Data Structures and Algorithms | Iamneo |
-| Object Oriented Programming | Iamneo |
-| TCP/IP and Advanced Topics | Coursera |
-| Packet Switching Networks and Algorithms | Coursera |
-| Software Development Process and Methodologies | Coursera |
+> #### Certification Cards  
+> **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — Oracle  
+> **UiPath Certified Professional Automation Developer Associate** — UiPath  
+> **Data Analytics with Python** — NPTEL  
+> **Data Structures and Algorithms** — Iamneo  
+> **Object Oriented Programming** — Iamneo  
+> **TCP/IP and Advanced Topics** — Coursera  
+> **Packet Switching Networks and Algorithms** — Coursera  
+> **Software Development Process and Methodologies** — Coursera
 
 </div>
 
@@ -145,12 +168,18 @@
 
 <div align="center">
 
-| Channel | Details |
-|---|---|
-| **Email** | [ankit639520@gmail.com](mailto:ankit639520@gmail.com) |
-| **Call / WhatsApp** | [+91 6395204834](tel:+916395204834) |
-| **Location** | Punjab, India |
-| **Portfolio** | [View Live Portfolio](https://github.com/ankitgithub12) |
+> #### Connect Card  
+> **Email**  
+> [ankit639520@gmail.com](mailto:ankit639520@gmail.com)
+>
+> **Call / WhatsApp**  
+> [+91 6395204834](tel:+916395204834)
+>
+> **Location**  
+> Punjab, India
+>
+> **Portfolio**  
+> [View Live Portfolio](https://github.com/ankitgithub12)
 
 </div>
 
