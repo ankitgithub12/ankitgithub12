@@ -1,56 +1,96 @@
-<svg viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" width="1200" height="280" role="img" aria-labelledby="title desc">
-  <title id="title">Ankit Kumar Professional Banner</title>
-  <desc id="desc">A clean professional gradient banner with developer title and technology highlights.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+  <title id="title">Ankit Kumar Premium Animated Header Banner</title>
+  <desc id="desc">Dark glassmorphism animated banner with developer identity, rotating role lines, drifting orbs, and subtle glow effects.</desc>
 
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="50%" stop-color="#1e293b"/>
-      <stop offset="100%" stop-color="#0b1120"/>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06001a" />
+      <stop offset="50%" stop-color="#1a0b3d" />
+      <stop offset="100%" stop-color="#06001a" />
     </linearGradient>
 
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="50%" stop-color="#60a5fa"/>
-      <stop offset="100%" stop-color="#818cf8"/>
+    <radialGradient id="orbPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#b57bff" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#7b2fff" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="orbCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8be8ff" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#48cae4" stop-opacity="0" />
+    </radialGradient>
+
+    <linearGradient id="nameGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#e3d3ff" />
+      <stop offset="100%" stop-color="#c7b8ff" />
     </linearGradient>
 
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="18"/>
+    <linearGradient id="underlineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#48cae4" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#e4d7ff" stop-opacity="1" />
+      <stop offset="100%" stop-color="#7b2fff" stop-opacity="0.4" />
+      <animateTransform attributeName="gradientTransform" type="translate" values="-260 0;260 0;-260 0" dur="6s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <filter id="orbBlur" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="48" />
     </filter>
+
+    <filter id="textGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#9d6bff" flood-opacity="0.45" />
+    </filter>
+
+    <filter id="panelShadow" x="-25%" y="-35%" width="150%" height="190%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.35" />
+    </filter>
+
+    <filter id="borderGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#b58dff" flood-opacity="0.5" />
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#6d35ff" flood-opacity="0.2" />
+    </filter>
+
+    <clipPath id="typingClip1"><rect x="0" y="0" width="0" height="36"><animate attributeName="width" values="0;490;490;0;0" keyTimes="0;0.25;0.6;0.8;1" dur="12s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="typingClip2"><rect x="0" y="0" width="0" height="36"><animate attributeName="width" values="0;0;0;540;540;0;0" keyTimes="0;0.32;0.34;0.58;0.76;0.9;1" dur="12s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="typingClip3"><rect x="0" y="0" width="0" height="36"><animate attributeName="width" values="0;0;0;0;0;560;560;0" keyTimes="0;0.62;0.64;0.66;0.68;0.9;0.97;1" dur="12s" repeatCount="indefinite" /></rect></clipPath>
   </defs>
 
-  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1500" height="500" fill="url(#bgGradient)" />
 
-  <circle cx="980" cy="40" r="120" fill="#2563eb" opacity="0.22" filter="url(#softGlow)"/>
-  <circle cx="1110" cy="230" r="130" fill="#0ea5e9" opacity="0.18" filter="url(#softGlow)"/>
-
-  <g opacity="0.35" stroke="#64748b" stroke-width="1">
-    <line x1="0" y1="44" x2="1200" y2="44"/>
-    <line x1="0" y1="236" x2="1200" y2="236"/>
+  <g filter="url(#orbBlur)">
+    <circle cx="150" cy="120" r="170" fill="url(#orbPurple)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 28 18; 0 0" dur="16s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1370" cy="110" r="190" fill="url(#orbCyan)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -32 20; 0 0" dur="14s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1290" cy="430" r="145" fill="url(#orbPurple)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -24 -18; 0 0" dur="18s" repeatCount="indefinite" />
+    </circle>
   </g>
 
-  <rect x="72" y="55" width="560" height="170" rx="16" fill="#0b1220" opacity="0.82" stroke="#334155"/>
+  <g filter="url(#panelShadow)">
+    <rect x="210" y="95" width="1080" height="310" rx="20" fill="#ffffff" fill-opacity="0.1" />
+  </g>
 
-  <text x="100" y="115" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="46" font-weight="700">
-    Ankit Kumar
-  </text>
+  <rect x="210" y="95" width="1080" height="310" rx="20" fill="#ffffff" fill-opacity="0.09" stroke="#c59dff" stroke-opacity="0.55" stroke-width="1" filter="url(#borderGlow)">
+    <animate attributeName="stroke-opacity" values="0.45;0.8;0.45" dur="5s" repeatCount="indefinite" />
+  </rect>
 
-  <rect x="100" y="131" width="300" height="4" rx="2" fill="url(#accent)"/>
+  <g transform="translate(280 180)">
+    <text x="0" y="0" font-family="Poppins, Inter, Segoe UI, Arial, sans-serif" font-size="74" font-weight="700" fill="url(#nameGradient)" filter="url(#textGlow)">Ankit Kumar</text>
+    <rect x="1" y="20" width="420" height="4" rx="2" fill="url(#underlineGradient)" />
 
-  <text x="100" y="168" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="500">
-    Full Stack Developer
-  </text>
+    <text x="0" y="76" font-family="Poppins, Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="400" fill="#c6bddf">Full Stack MERN Developer</text>
+    <text x="0" y="118" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#b2a9ca">Building Real-Time, Scalable Web Experiences</text>
 
-  <text x="100" y="203" fill="#94a3b8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18">
-    React · Node.js · Express · MongoDB · REST APIs
-  </text>
-
-  <g transform="translate(800 92)">
-    <rect width="320" height="120" rx="14" fill="#0b1220" opacity="0.72" stroke="#334155"/>
-    <text x="24" y="42" fill="#e2e8f0" font-family="Consolas, Menlo, monospace" font-size="20">Build. Secure. Scale.</text>
-    <text x="24" y="74" fill="#94a3b8" font-family="Consolas, Menlo, monospace" font-size="16">MERN • DSA • Real-time Apps</text>
-    <circle cx="279" cy="31" r="7" fill="#22c55e"/>
-    <text x="24" y="100" fill="#64748b" font-family="Consolas, Menlo, monospace" font-size="14">Open to internships & collaborations</text>
+    <g transform="translate(0 168)">
+      <text x="0" y="0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" fill="#f2efff" clip-path="url(#typingClip1)">Founding Full-Stack Dev</text>
+      <text x="0" y="0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" fill="#f2efff" clip-path="url(#typingClip2)">React · Node.js · MongoDB</text>
+      <text x="0" y="0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" fill="#f2efff" clip-path="url(#typingClip3)">Real-Time Systems Engineer</text>
+      <rect x="0" y="-26" width="2.5" height="34" rx="1" fill="#efe9ff">
+        <animate attributeName="x" values="0;500;500;0;0;545;545;0;0;560;560;0" keyTimes="0;0.25;0.32;0.34;0.58;0.62;0.64;0.66;0.9;0.93;0.97;1" dur="12s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="1;0.2;1;0.2;1" dur="0.9s" repeatCount="indefinite" />
+      </rect>
+    </g>
   </g>
 </svg>
