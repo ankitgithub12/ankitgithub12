@@ -32,12 +32,12 @@
     <text x="0" y="82" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="500" fill="#334155">Full Stack MERN Developer</text>
     <text x="0" y="126" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="400" fill="#475569">Building real-time, scalable web experiences</text>
 
-    <g transform="translate(0 168)">
-      <rect x="0" y="0" width="316" height="56" rx="14" fill="#f8fafc" stroke="url(#chipBorder)" />
-      <text x="22" y="36" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="500" fill="#1e293b">React · Node.js · MongoDB</text>
+    <g transform="translate(0 184)">
+      <rect x="0" y="0" width="332" height="60" rx="14" fill="#f8fafc" stroke="url(#chipBorder)" />
+      <text x="22" y="38" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="500" fill="#1e293b">React · Node.js · MongoDB</text>
     </g>
 
-    <g transform="translate(0 236)">
+    <g transform="translate(0 266)">
       <text x="0" y="0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" fill="#4338ca">Focused on product quality, performance, and scale.</text>
     </g>
   </g>

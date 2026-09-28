@@ -17,11 +17,17 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=55&section=header&text=%F0%9F%9A%80%20About%20Me&fontSize=28&fontColor=E2E8F0&animation=fadeIn" />
 </div>
 
-- Full-Stack Developer crafting high-performance web applications using **React, Node.js, Express, MongoDB**.
-- Focused on **scalable architecture, real-time systems, and clean product engineering**.
-- B.Tech CSE @ **Lovely Professional University** (CGPA: **7.73**).
-- Built production systems for **video-commerce, recruitment, event, and education** domains.
-- Open for **high-impact full-time roles and freelance opportunities**.
+<div align="center">
+
+| Profile Snapshot | Details |
+|---|---|
+| 🚀 **Role** | Full-Stack Developer building high-performance products with **React, Node.js, Express, MongoDB** |
+| 🧩 **Strength** | Scalable architecture, real-time systems, and clean product engineering |
+| 🎓 **Education** | B.Tech CSE @ **Lovely Professional University** (CGPA: **7.73**) |
+| 🌍 **Domain Exposure** | Video-commerce, recruitment, event, and education platforms |
+| 🤝 **Availability** | Open for high-impact full-time roles and freelance opportunities |
+
+</div>
 
 ---
 
@@ -29,9 +35,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1D4ED8&height=55&section=header&text=%F0%9F%A7%A0%20Engineering%20Focus&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
 </div>
 
-- Engineer impactful experiences, not just code.
-- Turn complex architectural challenges into robust, intuitive digital platforms.
-- Prioritize **performance, maintainability, security, and usability**.
+<div align="center">
+
+| Engineering Pillar | Focus |
+|---|---|
+| ⚡ **Performance-First Thinking** | Build fast experiences with scalable backend and efficient data flow |
+| 🏗️ **Architecture Quality** | Convert complex product requirements into robust and intuitive systems |
+| 🔐 **Production Readiness** | Prioritize maintainability, security, reliability, and usability in every release |
+
+</div>
 
 ---
 
