@@ -21,16 +21,16 @@
 
 > #### Profile Snapshot  
 > **Role**  
-> Full-Stack Developer building high-performance products with **React, Node.js, Express, MongoDB**
+> Full-Stack Developer building scalable, high-performance products with **React, Node.js, Express, and MongoDB**
 >
 > **Strength**  
-> Scalable architecture, real-time systems, and clean product engineering
+> Scalable architecture, real-time systems, and product-focused engineering
 >
 > **Education**  
-> B.Tech CSE @ **Lovely Professional University** (CGPA: **7.73**)
+> B.Tech in Computer Science & Engineering @ **Lovely Professional University**
 >
 > **Domain Exposure**  
-> Video-commerce, recruitment, event, and education platforms
+> Video-commerce, recruitment tech, event tech, and education platforms
 >
 > **Availability**  
 > Open for high-impact full-time roles and freelance opportunities
