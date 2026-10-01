@@ -1,0 +1,21 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="certTitle certDesc">
+  <title id="certTitle">Certifications Card</title>
+  <desc id="certDesc">Professional certifications displayed with consistent premium styling.</desc>
+  <defs>
+    <linearGradient id="cb" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+    <filter id="cs" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#64748B" flood-opacity="0.2"/></filter>
+    <style>.t{font-family:'Inter','Segoe UI',Arial,sans-serif}</style>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="#F8FAFC"/>
+  <rect x="8" y="8" width="1184" height="404" rx="24" fill="url(#cb)" stroke="#DBEAFE" stroke-width="2" filter="url(#cs)"/>
+
+  <g class="t" transform="translate(64 52)">
+    <text x="0" y="0" font-size="32" font-weight="700" fill="#0F172A">Certifications</text>
+
+    <rect x="0" y="28" width="1072" height="56" rx="12" fill="#EEF2FF"/><text x="20" y="63" font-size="20" font-weight="600" fill="#334155">Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</text>
+    <rect x="0" y="92" width="1072" height="56" rx="12" fill="#F1F5F9"/><text x="20" y="127" font-size="20" font-weight="600" fill="#334155">UiPath Certified Professional Automation Developer Associate</text>
+    <rect x="0" y="156" width="1072" height="56" rx="12" fill="#EEF2FF"/><text x="20" y="191" font-size="20" font-weight="600" fill="#334155">Data Analytics with Python · NPTEL</text>
+    <rect x="0" y="220" width="1072" height="56" rx="12" fill="#F1F5F9"/><text x="20" y="255" font-size="20" font-weight="600" fill="#334155">Data Structures and Algorithms · Iamneo</text>
+    <rect x="0" y="284" width="1072" height="56" rx="12" fill="#EEF2FF"/><text x="20" y="319" font-size="20" font-weight="600" fill="#334155">TCP/IP and Advanced Topics · Coursera</text>
+  </g>
+</svg>
