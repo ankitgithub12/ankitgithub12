@@ -1,73 +1,41 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="aboutTitle aboutDesc">
-  <title id="aboutTitle">About Me - Framer Motion Inspired Card</title>
-  <desc id="aboutDesc">Light premium profile card with layered transitions, soft floating glows, and professional profile highlights.</desc>
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="aboutTitle aboutDesc">
+  <title id="aboutTitle">Profile Hero Card</title>
+  <desc id="aboutDesc">Premium profile card with subtle transitions and clear hierarchy.</desc>
   <defs>
-    <linearGradient id="aboutBg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F8FAFC"/>
+    <linearGradient id="abg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
       <stop offset="1" stop-color="#E2E8F0"/>
     </linearGradient>
-    <linearGradient id="aboutBorder" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#60A5FA"/>
-      <stop offset="0.5" stop-color="#A78BFA"/>
-      <stop offset="1" stop-color="#22D3EE"/>
-      <animate attributeName="x1" values="-1200;1200;-1200" dur="7s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="0;2400;0" dur="7s" repeatCount="indefinite"/>
+    <linearGradient id="as" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="0.55" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+      <animate attributeName="x1" values="-1200;1200;-1200" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2400;0" dur="8s" repeatCount="indefinite"/>
     </linearGradient>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
-      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#64748B" flood-opacity="0.2"/>
-    </filter>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="22"/>
-    </filter>
-    <style>
-      .t{font-family:'Inter','Segoe UI',Arial,sans-serif;fill:#1E293B}
-      .h{font-size:34px;font-weight:700;fill:#0F172A}
-      .k{font-size:22px;font-weight:700;fill:#4338CA}
-      .v{font-size:21px;font-weight:500;fill:#334155}
-    </style>
+    <filter id="ashadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#64748B" flood-opacity="0.2"/></filter>
+    <style>.t{font-family:'Inter','Segoe UI',Arial,sans-serif}</style>
   </defs>
 
-  <rect width="1200" height="420" rx="28" fill="url(#aboutBg)"/>
-  <rect x="6" y="6" width="1188" height="408" rx="24" fill="#FFFFFF" stroke="url(#aboutBorder)" stroke-width="2" filter="url(#softShadow)"/>
+  <rect width="1200" height="390" rx="28" fill="#F8FAFC"/>
+  <rect x="8" y="8" width="1184" height="374" rx="24" fill="url(#abg)" stroke="url(#as)" stroke-width="2" filter="url(#ashadow)"/>
 
-  <circle cx="1020" cy="76" r="64" fill="#93C5FD" opacity="0.35" filter="url(#glow)">
-    <animate attributeName="cy" values="76;118;76" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="cx" values="1020;1060;1020" dur="6s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="180" cy="342" r="84" fill="#C4B5FD" opacity="0.32" filter="url(#glow)">
-    <animate attributeName="cx" values="180;230;180" dur="7s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="342;315;342" dur="7s" repeatCount="indefinite"/>
-  </circle>
+  <rect x="64" y="88" width="1072" height="56" rx="14" fill="#EEF2FF"><animate attributeName="x" values="64;74;64" dur="4.8s" repeatCount="indefinite"/></rect>
+  <rect x="64" y="155" width="1072" height="56" rx="14" fill="#F1F5F9"><animate attributeName="x" values="64;56;64" dur="5.1s" repeatCount="indefinite"/></rect>
+  <rect x="64" y="222" width="1072" height="56" rx="14" fill="#EEF2FF"><animate attributeName="x" values="64;76;64" dur="5.4s" repeatCount="indefinite"/></rect>
 
-  <rect x="70" y="95" width="1055" height="52" rx="14" fill="#EEF2FF">
-    <animate attributeName="x" values="70;78;70" dur="4.4s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="70" y="156" width="1055" height="52" rx="14" fill="#F1F5F9">
-    <animate attributeName="x" values="70;62;70" dur="4.8s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="70" y="217" width="1055" height="52" rx="14" fill="#EEF2FF">
-    <animate attributeName="x" values="70;79;70" dur="5.2s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="70" y="278" width="1055" height="52" rx="14" fill="#F1F5F9">
-    <animate attributeName="x" values="70;63;70" dur="5.6s" repeatCount="indefinite"/>
-  </rect>
+  <g class="t">
+    <text x="64" y="58" font-size="34" font-weight="700" fill="#0F172A">Hero Snapshot</text>
+    <text x="88" y="124" font-size="22" font-weight="700" fill="#3730A3">Role</text>
+    <text x="234" y="124" font-size="21" font-weight="500" fill="#334155">Full-stack engineer delivering scalable web products with production-grade architecture</text>
 
-  <text x="70" y="64" class="t h">Profile Snapshot · Framer Motion Style</text>
+    <text x="88" y="191" font-size="22" font-weight="700" fill="#3730A3">Strengths</text>
+    <text x="234" y="191" font-size="21" font-weight="500" fill="#334155">Realtime systems, API security, performance tuning, and clear product execution</text>
 
-  <text x="95" y="129" class="t k">Role</text>
-  <text x="240" y="129" class="t v">Full-Stack MERN engineer building real-time, scalable, and user-first products</text>
+    <text x="88" y="258" font-size="22" font-weight="700" fill="#3730A3">Mission</text>
+    <text x="234" y="258" font-size="21" font-weight="500" fill="#334155">Build polished experiences that balance speed, reliability, and measurable business impact</text>
+  </g>
 
-  <text x="95" y="190" class="t k">Strength</text>
-  <text x="240" y="190" class="t v">System design, performance tuning, and production-grade API architecture</text>
-
-  <text x="95" y="251" class="t k">Education</text>
-  <text x="240" y="251" class="t v">B.Tech in Computer Science &amp; Engineering · Lovely Professional University</text>
-
-  <text x="95" y="312" class="t k">Domain Exposure</text>
-  <text x="315" y="312" class="t v">Video-commerce, recruitment technology, event systems, and education platforms</text>
-
-  <rect x="70" y="350" width="365" height="36" rx="18" fill="#DBEAFE">
-    <animate attributeName="opacity" values="0.65;1;0.65" dur="2.8s" repeatCount="indefinite"/>
-  </rect>
-  <text x="95" y="374" class="t" style="font-size:16px;font-weight:700;fill:#1D4ED8;">Open for impactful product engineering opportunities</text>
+  <rect x="64" y="304" width="470" height="46" rx="23" fill="#DBEAFE"><animate attributeName="opacity" values="0.7;1;0.7" dur="2.6s" repeatCount="indefinite"/></rect>
+  <text x="88" y="335" class="t" font-size="18" font-weight="700" fill="#1D4ED8">Available for high-impact full-stack engineering roles</text>
 </svg>
