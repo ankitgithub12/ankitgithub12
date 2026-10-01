@@ -12,64 +12,56 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=Hero%20%26%20Profile&fontSize=28&fontColor=0F172A&animation=fadeIn" />
-  <br/><br/>
+  <h2>Hero &amp; Profile</h2>
   <img src="./about-me-motion-card.svg" width="100%" alt="Profile Hero Card" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=About&fontSize=28&fontColor=0F172A&animation=fadeIn" />
-  <br/><br/>
+  <h2>About</h2>
   <img src="./engineering-focus-motion-card.svg" width="100%" alt="About Card" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=Skills&fontSize=28&fontColor=0F172A&animation=fadeIn" />
-  <br/><br/>
+  <h2>Skills</h2>
   <img src="./skills-motion-card.svg" width="100%" alt="Skills Card" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=Experience&fontSize=28&fontColor=0F172A&animation=fadeIn" />
-  <br/><br/>
+  <h2>Experience</h2>
   <img src="./experience-motion-card.svg" width="100%" alt="Experience Card" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=Projects&fontSize=28&fontColor=0F172A&animation=fadeIn" />
-  <br/><br/>
+  <h2>Projects</h2>
   <img src="./projects-motion-card.svg" width="100%" alt="Projects Card" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=Education&fontSize=28&fontColor=0F172A&animation=fadeIn" />
-  <br/><br/>
+  <h2>Education</h2>
   <img src="./education-motion-card.svg" width="100%" alt="Education Card" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=Certifications&fontSize=28&fontColor=0F172A&animation=fadeIn" />
-  <br/><br/>
+  <h2>Certifications</h2>
   <img src="./certifications-motion-card.svg" width="100%" alt="Certifications Card" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=Contact&fontSize=28&fontColor=0F172A&animation=fadeIn" />
-  <br/><br/>
+  <h2>Contact</h2>
   <img src="./contact-motion-card.svg" width="100%" alt="Contact Card" />
 </div>
 
