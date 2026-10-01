@@ -18,22 +18,7 @@
 </div>
 
 <div align="center">
-
-> #### Profile Snapshot  
-> **Role**  
-> Full-Stack Developer building scalable, high-performance products with **React, Node.js, Express, and MongoDB**
->
-> **Strength**  
-> Scalable architecture, real-time systems, and product-focused engineering
->
-> **Education**  
-> B.Tech in Computer Science & Engineering @ **Lovely Professional University**
->
-> **Domain Exposure**  
-> Video-commerce, recruitment tech, event tech, and education platforms
->
-> **Availability**  
-> Open for high-impact full-time roles and freelance opportunities
+  <img src="./about-me-motion-card.svg" width="100%" alt="Animated About Me Card" />
 
 </div>
 
@@ -44,16 +29,7 @@
 </div>
 
 <div align="center">
-
-> #### Engineering Focus Card  
-> **Performance-First Thinking**  
-> Build fast experiences with scalable backend and efficient data flow
->
-> **Architecture Quality**  
-> Convert complex product requirements into robust and intuitive systems
->
-> **Production Readiness**  
-> Prioritize maintainability, security, reliability, and usability in every release
+  <img src="./engineering-focus-motion-card.svg" width="100%" alt="Animated Engineering Focus Card" />
 
 </div>
 
