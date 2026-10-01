@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ankitgithub12/ankitgithub12/main/banner.svg" width="100%" alt="Ankit Kumar - Full Stack Developer" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2500&pause=900&center=true&vCenter=true&width=980&lines=Ankit+Kumar+%E2%80%A2+Full+Stack+Developer;MERN+Lead+%E2%80%A2+Scalable+Systems+Builder;Open+for+High-Impact+Roles+%26+Freelance" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2200&pause=800&center=true&vCenter=true&width=980&color=1E293B&lines=Ankit+Kumar+%E2%80%A2+Full+Stack+Developer;Crafting+Scalable+MERN+Products;Open+for+High-Impact+Engineering+Roles" alt="Typing intro" />
 
   <br/>
 
@@ -14,10 +14,11 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=About%20Me&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=About%20Me&fontSize=28&fontColor=0F172A&animation=fadeIn" />
 </div>
 
 <div align="center">
+  <sub>Framer Motion-inspired profile card with smooth layered transitions</sub><br/><br/>
   <img src="./about-me-motion-card.svg" width="100%" alt="Animated About Me Card" />
 
 </div>
@@ -25,10 +26,11 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=Engineering%20Focus&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=Engineering%20Focus&fontSize=28&fontColor=0F172A&animation=fadeIn" />
 </div>
 
 <div align="center">
+  <sub>Framer Motion-inspired engineering card with directional flow animations</sub><br/><br/>
   <img src="./engineering-focus-motion-card.svg" width="100%" alt="Animated Engineering Focus Card" />
 
 </div>
@@ -36,52 +38,52 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=Tech%20Stack&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=Tech%20Stack&fontSize=28&fontColor=0F172A&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-> #### Core Stack Card  
+> #### Core Stack
 > **Languages**  
-> ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+> ![C++](https://img.shields.io/badge/C++-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=111827) ![Python](https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=white)
 >
 > **Frontend**  
-> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+> ![React](https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=0F172A) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-BAE6FD?style=for-the-badge&logo=tailwind-css&logoColor=0C4A6E)
 >
 > **Backend**  
-> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+> ![Node.js](https://img.shields.io/badge/Node.js-22C55E?style=for-the-badge&logo=nodedotjs&logoColor=14532D) ![Express](https://img.shields.io/badge/Express-E2E8F0?style=for-the-badge&logo=express&logoColor=0F172A) ![JWT](https://img.shields.io/badge/JWT-CBD5E1?style=for-the-badge&logo=jsonwebtokens&logoColor=0F172A)
 >
 > **Database & Realtime**  
-> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+> ![MongoDB](https://img.shields.io/badge/MongoDB-86EFAC?style=for-the-badge&logo=mongodb&logoColor=14532D) ![Socket.IO](https://img.shields.io/badge/Socket.IO-E2E8F0?style=for-the-badge&logo=socket.io&logoColor=0F172A)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=Experience&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=Experience&fontSize=28&fontColor=0F172A&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-> #### Experience Cards  
+> #### Experience
 > **Founding Full-Stack Developer — Freelance / SaaS Marketplace (Jul 2026 – Present)**  
-> Built **BizReels** from scratch with reels commerce UX, JWT RBAC, Socket.IO lead pipeline, Razorpay subscriptions, and sub-second geospatial search.
+> Designed and launched **BizReels** with reels-commerce UX, secure JWT RBAC, Socket.IO lead workflows, Razorpay subscriptions, and sub-second geospatial search.
 >
 > **Full Stack Developer Intern — Emote Technology (Feb 2026 – Jun 2026)**  
-> Built a job portal and operations dashboard with ATS workflows, analytics, and real-time notifications while improving DB query performance by **30%**.
+> Delivered a job portal and operations dashboard with ATS workflows, analytics, and real-time notifications while improving DB query performance by **30%**.
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=Featured%20Projects&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=Featured%20Projects&fontSize=28&fontColor=0F172A&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-> #### Featured Project Cards  
+> #### Featured Projects
 > **B5 Eventory — Event Management Platform**  
 > End-to-end MERN platform with admin + planner portals, Socket.IO booking alerts, and architecture tuned for **99% reliability**.
 >
@@ -93,21 +95,21 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=Coding%20Performance&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=Coding%20Performance&fontSize=28&fontColor=0F172A&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitgithub12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=ankitgithub12&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitgithub12&show_icons=true&theme=default&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=ankitgithub12&theme=default&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgithub12&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgithub12&layout=compact&theme=default&hide_border=true" width="42%" />
 </div>
 
 <div align="center">
 
-> #### Coding Snapshot Card  
+> #### Coding Snapshot
 > **LeetCode** — **458+** solved  
 > 257 Easy • 174 Medium • 27 Hard
 >
@@ -119,12 +121,12 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=Certifications&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=Certifications&fontSize=28&fontColor=0F172A&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-> #### Certification Cards  
+> #### Certifications
 > **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — Oracle  
 > **UiPath Certified Professional Automation Developer Associate** — UiPath  
 > **Data Analytics with Python** — NPTEL  
@@ -139,12 +141,12 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=55&section=header&text=Let%27s%20Connect&fontSize=28&fontColor=F8FAFC&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E2E8F0,100:CBD5E1&height=55&section=header&text=Let%27s%20Connect&fontSize=28&fontColor=0F172A&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-> #### Connect Card  
+> #### Connect
 > **Email**  
 > [ankit639520@gmail.com](mailto:ankit639520@gmail.com)
 >

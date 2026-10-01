@@ -1,56 +1,73 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="aboutTitle aboutDesc">
+  <title id="aboutTitle">About Me - Framer Motion Inspired Card</title>
+  <desc id="aboutDesc">Light premium profile card with layered transitions, soft floating glows, and professional profile highlights.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1220" />
-      <stop offset="1" stop-color="#1E293B" />
+    <linearGradient id="aboutBg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#E2E8F0"/>
     </linearGradient>
-    <linearGradient id="stroke" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#22D3EE" />
-      <stop offset="0.5" stop-color="#818CF8" />
-      <stop offset="1" stop-color="#22D3EE" />
-      <animate attributeName="x1" values="-1200;1200;-1200" dur="8s" repeatCount="indefinite" />
-      <animate attributeName="x2" values="0;2400;0" dur="8s" repeatCount="indefinite" />
+    <linearGradient id="aboutBorder" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+      <animate attributeName="x1" values="-1200;1200;-1200" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2400;0" dur="7s" repeatCount="indefinite"/>
     </linearGradient>
-    <filter id="blur">
-      <feGaussianBlur stdDeviation="40" />
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#64748B" flood-opacity="0.2"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="22"/>
     </filter>
     <style>
-      .t{font-family:'Segoe UI',Inter,Arial,sans-serif;fill:#E2E8F0}
-      .h{font-size:34px;font-weight:700;fill:#F8FAFC}
-      .k{font-size:22px;font-weight:700;fill:#7DD3FC}
-      .v{font-size:22px;font-weight:500}
+      .t{font-family:'Inter','Segoe UI',Arial,sans-serif;fill:#1E293B}
+      .h{font-size:34px;font-weight:700;fill:#0F172A}
+      .k{font-size:22px;font-weight:700;fill:#4338CA}
+      .v{font-size:21px;font-weight:500;fill:#334155}
     </style>
   </defs>
 
-  <rect x="6" y="6" width="1188" height="408" rx="28" fill="url(#bg)" />
-  <rect x="6" y="6" width="1188" height="408" rx="28" stroke="url(#stroke)" stroke-width="2" />
+  <rect width="1200" height="420" rx="28" fill="url(#aboutBg)"/>
+  <rect x="6" y="6" width="1188" height="408" rx="24" fill="#FFFFFF" stroke="url(#aboutBorder)" stroke-width="2" filter="url(#softShadow)"/>
 
-  <circle cx="1020" cy="90" r="75" fill="#2563EB" opacity="0.3" filter="url(#blur)">
-    <animate attributeName="cy" values="90;120;90" dur="6s" repeatCount="indefinite" />
+  <circle cx="1020" cy="76" r="64" fill="#93C5FD" opacity="0.35" filter="url(#glow)">
+    <animate attributeName="cy" values="76;118;76" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="1020;1060;1020" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="190" cy="335" r="95" fill="#0891B2" opacity="0.25" filter="url(#blur)">
-    <animate attributeName="cx" values="190;240;190" dur="7s" repeatCount="indefinite" />
+  <circle cx="180" cy="342" r="84" fill="#C4B5FD" opacity="0.32" filter="url(#glow)">
+    <animate attributeName="cx" values="180;230;180" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="342;315;342" dur="7s" repeatCount="indefinite"/>
   </circle>
 
-  <text x="70" y="78" class="t h">Profile Snapshot</text>
-
-  <text x="70" y="132" class="t k">Role</text>
-  <text x="245" y="132" class="t v">Full-Stack Developer building scalable, high-performance products with React, Node.js, Express, and MongoDB</text>
-
-  <text x="70" y="185" class="t k">Strength</text>
-  <text x="245" y="185" class="t v">Scalable architecture, real-time systems, and product-focused engineering</text>
-
-  <text x="70" y="238" class="t k">Education</text>
-  <text x="245" y="238" class="t v">B.Tech in Computer Science &amp; Engineering @ Lovely Professional University</text>
-
-  <text x="70" y="291" class="t k">Domain Exposure</text>
-  <text x="300" y="291" class="t v">Video-commerce, recruitment tech, event tech, and education platforms</text>
-
-  <text x="70" y="344" class="t k">Availability</text>
-  <text x="245" y="344" class="t v">Open for high-impact full-time roles and freelance opportunities</text>
-
-  <rect x="70" y="368" width="325" height="30" rx="15" fill="#0EA5E9" opacity="0.16">
-    <animate attributeName="opacity" values="0.1;0.28;0.1" dur="3s" repeatCount="indefinite" />
+  <rect x="70" y="95" width="1055" height="52" rx="14" fill="#EEF2FF">
+    <animate attributeName="x" values="70;78;70" dur="4.4s" repeatCount="indefinite"/>
   </rect>
-  <text x="90" y="389" class="t" style="font-size:16px;font-weight:600;fill:#BAE6FD;">Available for impactful builds</text>
+  <rect x="70" y="156" width="1055" height="52" rx="14" fill="#F1F5F9">
+    <animate attributeName="x" values="70;62;70" dur="4.8s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="70" y="217" width="1055" height="52" rx="14" fill="#EEF2FF">
+    <animate attributeName="x" values="70;79;70" dur="5.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="70" y="278" width="1055" height="52" rx="14" fill="#F1F5F9">
+    <animate attributeName="x" values="70;63;70" dur="5.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="70" y="64" class="t h">Profile Snapshot · Framer Motion Style</text>
+
+  <text x="95" y="129" class="t k">Role</text>
+  <text x="240" y="129" class="t v">Full-Stack MERN engineer building real-time, scalable, and user-first products</text>
+
+  <text x="95" y="190" class="t k">Strength</text>
+  <text x="240" y="190" class="t v">System design, performance tuning, and production-grade API architecture</text>
+
+  <text x="95" y="251" class="t k">Education</text>
+  <text x="240" y="251" class="t v">B.Tech in Computer Science &amp; Engineering · Lovely Professional University</text>
+
+  <text x="95" y="312" class="t k">Domain Exposure</text>
+  <text x="315" y="312" class="t v">Video-commerce, recruitment technology, event systems, and education platforms</text>
+
+  <rect x="70" y="350" width="365" height="36" rx="18" fill="#DBEAFE">
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+  <text x="95" y="374" class="t" style="font-size:16px;font-weight:700;fill:#1D4ED8;">Open for impactful product engineering opportunities</text>
 </svg>
