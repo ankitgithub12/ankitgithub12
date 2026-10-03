@@ -68,10 +68,13 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitgithub12&show_icons=true&theme=default&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=ankitgithub12&theme=default&hide_border=true" width="49%" />
+  <h2>Live GitHub Analytics</h2>
+  <img src="./github-live-stats-motion-card.svg" width="100%" alt="Live GitHub Analytics Motion Card" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgithub12&layout=compact&theme=default&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitgithub12&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=1800" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=ankitgithub12&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" width="49%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgithub12&layout=compact&hide_border=true&langs_count=10&card_width=560&cache_seconds=1800" width="58%" />
 </div>
 
 ---

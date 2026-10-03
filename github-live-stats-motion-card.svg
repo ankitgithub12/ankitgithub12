@@ -1,0 +1,54 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="statsTitle statsDesc">
+  <title id="statsTitle">Live GitHub Analytics</title>
+  <desc id="statsDesc">Motion-style header card for live GitHub statistics with animated layers.</desc>
+  <defs>
+    <linearGradient id="gBg" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gStroke" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.45" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+      <animate attributeName="x1" values="-1200;1200;-1200" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2400;0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="blobA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 60) rotate(45) scale(210 120)">
+      <stop stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 210) rotate(45) scale(260 140)">
+      <stop stop-color="#F59E0B" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <style>.t{font-family:'Inter','Segoe UI',Arial,sans-serif}</style>
+  </defs>
+
+  <rect width="1200" height="250" rx="28" fill="#020617"/>
+  <rect x="8" y="8" width="1184" height="234" rx="24" fill="url(#gBg)" stroke="url(#gStroke)" stroke-width="2"/>
+  <ellipse cx="220" cy="60" rx="210" ry="120" fill="url(#blobA)">
+    <animate attributeName="cx" values="180;260;180" dur="7s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="980" cy="210" rx="260" ry="140" fill="url(#blobB)">
+    <animate attributeName="cx" values="940;1020;940" dur="9s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g class="t" fill="#E2E8F0">
+    <text x="56" y="78" font-size="40" font-weight="800">Live GitHub Analytics</text>
+    <text x="56" y="114" font-size="20" font-weight="500" fill="#BFDBFE">Real-time cards with frequent refresh for commits, streaks, and language usage</text>
+  </g>
+
+  <g class="t">
+    <rect x="56" y="148" width="238" height="46" rx="23" fill="#0F172A" stroke="#334155"/>
+    <circle cx="84" cy="171" r="7" fill="#22C55E"><animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="102" y="178" font-size="18" font-weight="700" fill="#DCFCE7">Auto refresh enabled</text>
+
+    <rect x="318" y="148" width="238" height="46" rx="23" fill="#0F172A" stroke="#334155"/>
+    <circle cx="346" cy="171" r="7" fill="#38BDF8"><animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="364" y="178" font-size="18" font-weight="700" fill="#DBEAFE">Live API powered</text>
+
+    <rect x="580" y="148" width="238" height="46" rx="23" fill="#0F172A" stroke="#334155"/>
+    <circle cx="608" cy="171" r="7" fill="#F59E0B"><animate attributeName="cy" values="171;167;171" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="626" y="178" font-size="18" font-weight="700" fill="#FEF3C7">Motion-style layout</text>
+  </g>
+</svg>
